@@ -11,9 +11,9 @@ Vivienne Owusu-Ansah
 
 File List
 ---------
-Intro to Java.pptx
-SuperHero.java
-OOPIntro.java
+*  Intro to Java.pptx
+*  SuperHero.java
+*  OOPIntro.java
 
 How to run file
 ----
