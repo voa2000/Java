@@ -9,12 +9,15 @@ Vivienne Owusu-Ansah
 
 File List
 ---------
+Intro to Java.pptx
+SuperHero.java
+OOPIntro.java
 
 How to run file
 ----
-*   Download and install the Java Development Kit
+*   Download and install the Java Development Kit from here https://www.oracle.com/technetwork/java/javase/downloads/index.html
 
-*   Download and install Eclipse . 
+*   Download and install Eclipse from here https://www.eclipse.org/
 
 Once you have cloned the directory to your local machine, follow the diections below:
 -----
