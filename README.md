@@ -1,6 +1,8 @@
 # Introduction to Java
-Project source can be downloaded from
-
+This is a basic introduction to Java.  
+The presentation contains a brief introduction including text edits and IDEs that could be used to program in Java.
+Java is a very simple programming lanuage to learn.
+Java is everywhere (Embedded into IoT devices, Web and Desktop applications, writing test, creating frameworks, Big data, etc.)
 
 Author & Contributor List
 ----
